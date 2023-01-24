@@ -1,3 +1,5 @@
+/* andreacrawford on code pen */
+
 .rating-group {
   display: inline-flex;
 }
@@ -11,7 +13,6 @@
 }
 .rating__label {
   cursor: pointer;
-  /* if you change the left/right padding, update the margin-right property of .rating__label--half as well. */
   padding: 0 0.1em;
   font-size: 2rem;
 }
